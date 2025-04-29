@@ -32,6 +32,6 @@ public class tableaux {
         String chaine = tab3[15]; //ArrayIndexOutOfBoundsException
 
 
-        
+
     }
 }
