@@ -9,6 +9,8 @@ public class try_catch_finally {
             System.out.println(x);
         } catch (ArrayIndexOutOfBoundsException e){
             System.out.println("Dans le bloc catch");
+        } finally {
+            //
         }
     }
 }
