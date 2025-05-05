@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/16_Statics/16_Statics.iml" filepath="$PROJECT_DIR$/16_Statics/16_Statics.iml" />
       <module fileurl="file://$PROJECT_DIR$/17_Passage_parametres_primitif/17_Passage_parametres_primitif.iml" filepath="$PROJECT_DIR$/17_Passage_parametres_primitif/17_Passage_parametres_primitif.iml" />
       <module fileurl="file://$PROJECT_DIR$/18_Passage parametres_objet/18_Passage parametres_objet.iml" filepath="$PROJECT_DIR$/18_Passage parametres_objet/18_Passage parametres_objet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19_Heritage/19_Heritage.iml" filepath="$PROJECT_DIR$/19_Heritage/19_Heritage.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JAVACours.iml" filepath="$PROJECT_DIR$/.idea/JAVACours.iml" />
     </modules>
   </component>
