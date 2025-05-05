@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/14_Constructeurs/14_Constructeurs.iml" filepath="$PROJECT_DIR$/14_Constructeurs/14_Constructeurs.iml" />
       <module fileurl="file://$PROJECT_DIR$/15_Membres_Instance/15_Membres_Instance.iml" filepath="$PROJECT_DIR$/15_Membres_Instance/15_Membres_Instance.iml" />
       <module fileurl="file://$PROJECT_DIR$/16_Statics/16_Statics.iml" filepath="$PROJECT_DIR$/16_Statics/16_Statics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17_Passage_parametres_primitif/17_Passage_parametres_primitif.iml" filepath="$PROJECT_DIR$/17_Passage_parametres_primitif/17_Passage_parametres_primitif.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JAVACours.iml" filepath="$PROJECT_DIR$/.idea/JAVACours.iml" />
     </modules>
   </component>
