@@ -1,5 +1,3 @@
-package primitifs;
-
 public class Primitifs {
 
     public static void main(String[] args) {
