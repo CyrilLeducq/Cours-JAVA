@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/18_Passage parametres_objet/18_Passage parametres_objet.iml" filepath="$PROJECT_DIR$/18_Passage parametres_objet/18_Passage parametres_objet.iml" />
       <module fileurl="file://$PROJECT_DIR$/19_Heritage/19_Heritage.iml" filepath="$PROJECT_DIR$/19_Heritage/19_Heritage.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JAVACours.iml" filepath="$PROJECT_DIR$/.idea/JAVACours.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatternMatching_for_InstanceOf/PatternMatching_for_InstanceOf.iml" filepath="$PROJECT_DIR$/PatternMatching_for_InstanceOf/PatternMatching_for_InstanceOf.iml" />
     </modules>
   </component>
 </project>
