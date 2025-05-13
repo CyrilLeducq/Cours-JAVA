@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/final/final.iml" filepath="$PROJECT_DIR$/final/final.iml" />
       <module fileurl="file://$PROJECT_DIR$/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/interfaces/interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/override_polymorphisme/override.iml" filepath="$PROJECT_DIR$/override_polymorphisme/override.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sealedClass/sealedClass.iml" filepath="$PROJECT_DIR$/sealedClass/sealedClass.iml" />
     </modules>
   </component>
 </project>
