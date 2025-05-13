@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/Overload_Surcharge/Overload_Surcharge.iml" filepath="$PROJECT_DIR$/Overload_Surcharge/Overload_Surcharge.iml" />
       <module fileurl="file://$PROJECT_DIR$/PatternMatching_for_InstanceOf/PatternMatching_for_InstanceOf.iml" filepath="$PROJECT_DIR$/PatternMatching_for_InstanceOf/PatternMatching_for_InstanceOf.iml" />
       <module fileurl="file://$PROJECT_DIR$/abstract/abstract.iml" filepath="$PROJECT_DIR$/abstract/abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/final/final.iml" filepath="$PROJECT_DIR$/final/final.iml" />
       <module fileurl="file://$PROJECT_DIR$/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/interfaces/interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/override_polymorphisme/override.iml" filepath="$PROJECT_DIR$/override_polymorphisme/override.iml" />
     </modules>
