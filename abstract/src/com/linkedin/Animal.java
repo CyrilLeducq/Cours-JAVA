@@ -20,6 +20,7 @@ public abstract class Animal {
         System.out.println("L'animal se déplace");
     }
 
-
-
+    public String getPrenom() {
+        return prenom;
+    }
 }

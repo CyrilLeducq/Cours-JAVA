@@ -5,7 +5,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Animal a = new Herbivore("Mimi", 12, 12, 2);
+        Animal a = new Herbivore ("Minou", 15, 8, 1);
         a.manger();
         a.seDeplacer();
 
